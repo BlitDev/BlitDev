@@ -8,4 +8,3 @@ Hi, I'm beginner C# programmer.
 #### Libraries and Frameworks:
 
 ![Discord.NET](https://img.shields.io/badge/Discord.NET-68217A?style=flat-square&logo=Discord)
-![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity)
