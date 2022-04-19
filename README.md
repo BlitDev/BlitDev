@@ -1,7 +1,7 @@
 ﻿## About me
 Hi, I'm beginner C# programmer.
 
-My Codeberg: ![Link to profile](https://codeberg.org/BlitDev)
+My Codeberg: [Link to profile](https://codeberg.org/BlitDev)
 
 ## My Stack
 ![.NET Development](https://img.shields.io/badge/.NET-4D29C9?style=flat-square&logo=Microsoft)
